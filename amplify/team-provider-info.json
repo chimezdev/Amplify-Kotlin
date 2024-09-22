@@ -1,0 +1,25 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-shirtersdroid-dev-ee681-authRole",
+      "UnauthRoleArn": "arn:aws:iam::038462750799:role/amplify-shirtersdroid-dev-ee681-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::038462750799:role/amplify-shirtersdroid-dev-ee681-authRole",
+      "Region": "eu-west-1",
+      "DeploymentBucketName": "amplify-shirtersdroid-dev-ee681-deployment",
+      "UnauthRoleName": "amplify-shirtersdroid-dev-ee681-unauthRole",
+      "StackName": "amplify-shirtersdroid-dev-ee681",
+      "StackId": "arn:aws:cloudformation:eu-west-1:038462750799:stack/amplify-shirtersdroid-dev-ee681/bc5f19d0-7638-11ef-b434-0254d3db0e3d",
+      "AmplifyAppId": "dyqu8ot496w3u"
+    },
+    "categories": {
+      "auth": {
+        "shirtersdroid297f5c79": {
+          "userPoolId": "eu-west-1_WZnZC41u9",
+          "userPoolName": "WildRydes",
+          "webClientId": "73n4k1q7rscboq17e7oo0jupbj",
+          "nativeClientId": "73n4k1q7rscboq17e7oo0jupbj"
+        }
+      }
+    }
+  }
+}

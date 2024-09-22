@@ -1,0 +1,45 @@
+{
+  "auth": {
+    "shirtersdroid297f5c79": {
+      "customAuth": false,
+      "dependsOn": [],
+      "providerPlugin": "awscloudformation",
+      "service": "Cognito",
+      "serviceType": "imported"
+    }
+  },
+  "parameters": {
+    "AMPLIFY_auth_shirtersdroid297f5c79_nativeClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shirtersdroid297f5c79"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shirtersdroid297f5c79_userPoolId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shirtersdroid297f5c79"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shirtersdroid297f5c79_userPoolName": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shirtersdroid297f5c79"
+        }
+      ]
+    },
+    "AMPLIFY_auth_shirtersdroid297f5c79_webClientId": {
+      "usedBy": [
+        {
+          "category": "auth",
+          "resourceName": "shirtersdroid297f5c79"
+        }
+      ]
+    }
+  }
+}
